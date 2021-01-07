@@ -16,7 +16,7 @@ const Navbar = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            Home
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
